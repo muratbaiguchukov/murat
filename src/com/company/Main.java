@@ -8,9 +8,9 @@ public class Main {
         String d = "vertex";
     }
 
-    System.out.println(add(a, a));
-    System.out.println(add(b, b));
-    System.out.println(add(c, c));
+    //System.out.println(add(a, a));
+   //System.out.println(add(b, b));
+    //System.out.println(add(c, c));
 
     public static int add(int a, int b) {
         return a += b;
