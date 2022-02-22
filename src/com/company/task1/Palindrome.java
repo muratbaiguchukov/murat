@@ -21,9 +21,7 @@ public class Palindrome {
         else
             System.out.println(num + "Это число не является палиндромом");
             }
-    //public static boolean isPalindrome(int num) {
 
-      //  return true;
     }
 
 
